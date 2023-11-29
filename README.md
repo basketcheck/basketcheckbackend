@@ -1,13 +1,13 @@
-feat: 어떤 특정 어플리케이션에 더할 새로운 feature
+# BSSMBALL
 
-fix: 어떤 오류 해결(fix)
+## Commit Rules
 
-style: 스타일과 연관된 feature나 업데이트들
-
-refactor: 코드 베이스의 특정 부분을 재정렬(refactoring)
-
-test: 테스트와 관련된 모든 것
-
-docs: 문서화에 관한 모든 것
-
-chore: 정규 코드 유지보수.
+| type | description |
+| --- | --- |
+| ADD ::  | 기능 추가 |
+| FIX :: | 수정 |
+| DOCS :: | 세부 기능 추가 |
+| STYLE :: | 코드 스타일 변경 |
+| REFACTOR :: | 코드 리팩토링 |
+| TEST :: | 코드 테스트 |
+| DELETE :: | 파일 또는 기능 삭제 |
