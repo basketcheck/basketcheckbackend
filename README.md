@@ -1,5 +1,3 @@
-# basketcheckbackend
-basketcheckbackend
 feat: 어떤 특정 어플리케이션에 더할 새로운 feature
 
 fix: 어떤 오류 해결(fix)
