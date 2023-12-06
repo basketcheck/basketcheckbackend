@@ -10,12 +10,8 @@ import lombok.ToString;
 @NoArgsConstructor
 @Getter
 @ToString
-
 public class Userdto {
     private Long id;
-
-    @JsonProperty("days_id")
-    private Long daysId;
     private String nickname;
     private String password;
 }

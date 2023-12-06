@@ -6,6 +6,6 @@ import org.springframework.stereotype.Service;
 @Service
 public class AuthService {
     public String login(Userdto userdto) {
-        return "hello world";
+        return userdto.toString();
     }
 }
